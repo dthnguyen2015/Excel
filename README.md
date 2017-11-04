@@ -3,6 +3,7 @@
 # :jack_o_lantern:Super basic things
 :bomb:[Link to materials](https://www.gcflearnfree.org/excel2013/)<br/>
 
+Outcomes:
 * Simple formulas
 * Complex formulas
 * Relative and absolut cell references
@@ -19,7 +20,7 @@
 # :jack_o_lantern:A bit more advanced functions
 :bomb:[Link to materials](http://www.excel-easy.com/functions.html)<br/>
 
-Skip whatever already learn above
+*Note: Skip whatever already learn above*<br/>
 Functions that are the most common in data analysis:
 * Logical
 * Date & Time
@@ -36,6 +37,7 @@ Functions that are the most common in data analysis:
 * :tv:[Cool data cleaning tricks](https://www.youtube.com/watch?v=e0TfIbZXPeA)
 * :tv:[Data cleaning P1](https://www.youtube.com/watch?v=Jt76Q0dVEm4)
 * :tv:[Data cleaning P2](https://www.youtube.com/watch?v=Jt76Q0dVEm4) <br/>
+
 To-do: find a messy dataset to clean
 
 # :jack_o_lantern:Killer VBA
