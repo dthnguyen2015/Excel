@@ -2,7 +2,7 @@
 
 # :jack_o_lantern:Super basic things
 :bomb:[Link to materials](https://www.gcflearnfree.org/excel2013/)<br/>
-Die die need to know:
+
 * Simple formulas
 * Complex formulas
 * Relative and absolut cell references
@@ -17,7 +17,8 @@ Die die need to know:
 * What-if analysis
 
 # :jack_o_lantern:A bit more advanced functions
-:bomb:[Link to materials](http://www.excel-easy.com/functions.html)
+:bomb:[Link to materials](http://www.excel-easy.com/functions.html)<br/>
+
 Skip whatever already learn above
 Functions that are the most common in data analysis:
 * Logical
@@ -38,7 +39,8 @@ Functions that are the most common in data analysis:
 To-do: find a messy dataset to clean
 
 # :jack_o_lantern:Killer VBA
-:bomb:[Link to materials](https://www.excel-pratique.com/en/vba.php)
+:bomb:[Link to materials](https://www.excel-pratique.com/en/vba.php)<br/>
+
 *Most important concepts:*
 * Object-oriented programming (need to find materials on this)
 * Loop
