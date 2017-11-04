@@ -38,12 +38,12 @@ Functions that are the most common in data analysis:
 * :tv:[Data cleaning P1](https://www.youtube.com/watch?v=Jt76Q0dVEm4)
 * :tv:[Data cleaning P2](https://www.youtube.com/watch?v=Jt76Q0dVEm4) <br/>
 
-To-do: find a messy dataset to clean
+:white_check_mark:To-do: find a messy dataset to clean
 
 # :jack_o_lantern:Killer VBA
 :bomb:[Link to materials](https://www.excel-pratique.com/en/vba.php)<br/>
 
-*Most important concepts:*
+Most important concepts:
 * Object-oriented programming (need to find materials on this)
 * Loop
 * Condition
