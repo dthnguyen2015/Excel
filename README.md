@@ -1,7 +1,7 @@
 *This repository is for Excel materials*
 
 # :jack_o_lantern:Super basic things
-[Link to materials](https://www.gcflearnfree.org/excel2013/)
+:bomb:[Link to materials](https://www.gcflearnfree.org/excel2013/)<br/>
 Die die need to know:
 * Simple formulas
 * Complex formulas
@@ -17,7 +17,7 @@ Die die need to know:
 * What-if analysis
 
 # :jack_o_lantern:A bit more advanced functions
-[Link to materials](http://www.excel-easy.com/functions.html)
+:bomb:[Link to materials](http://www.excel-easy.com/functions.html)
 Skip whatever already learn above
 Functions that are the most common in data analysis:
 * Logical
@@ -34,11 +34,11 @@ Functions that are the most common in data analysis:
 * :tv:[Basic data cleaning](https://www.youtube.com/watch?v=sB0nJlcjFBs)
 * :tv:[Cool data cleaning tricks](https://www.youtube.com/watch?v=e0TfIbZXPeA)
 * :tv:[Data cleaning P1](https://www.youtube.com/watch?v=Jt76Q0dVEm4)
-* :tv:[Data cleaning P2](https://www.youtube.com/watch?v=Jt76Q0dVEm4)
+* :tv:[Data cleaning P2](https://www.youtube.com/watch?v=Jt76Q0dVEm4) <br/>
 To-do: find a messy dataset to clean
 
 # :jack_o_lantern:Killer VBA
-[Link to materials](https://www.excel-pratique.com/en/vba.php)
+:bomb:[Link to materials](https://www.excel-pratique.com/en/vba.php)
 *Most important concepts:*
 * Object-oriented programming (need to find materials on this)
 * Loop
